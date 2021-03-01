@@ -1,0 +1,7 @@
+C:\Users\Ez\source\repos\PR4_2\PR4_2\obj\Debug\PR4_2.csprojAssemblyReference.cache
+C:\Users\Ez\source\repos\PR4_2\PR4_2\obj\Debug\PR4_2.csproj.CoreCompileInputs.cache
+C:\Users\Ez\source\repos\PR4_2\PR4_2\bin\Debug\PR4_2.exe.config
+C:\Users\Ez\source\repos\PR4_2\PR4_2\bin\Debug\PR4_2.exe
+C:\Users\Ez\source\repos\PR4_2\PR4_2\bin\Debug\PR4_2.pdb
+C:\Users\Ez\source\repos\PR4_2\PR4_2\obj\Debug\PR4_2.exe
+C:\Users\Ez\source\repos\PR4_2\PR4_2\obj\Debug\PR4_2.pdb
